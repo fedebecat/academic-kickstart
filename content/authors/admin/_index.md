@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Federico Becattini
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Media Integration and Communication Center (MICC) - University of Florence
+  url: "www.micc.unifi.it"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a PostDoc in the Media Integration and Communication Center (MICC) at the University of Florence.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Machine Learning
+- Autonomous Driving
+- Trajectory Prediction
+- Action Recognition
+- Object Detection
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: PhD in Information Engineering
+    institution: University of Florence
+    year: 2018
+  - course: MS in Computer Engineering
+    institution: University of Florence
+    year: 2014
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +50,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Fede_Becat
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=t0sXvkAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fedebecat
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor Networks.
+I am a **PostDoc** working in the Media Integration and Communication Center (MICC) at the University of Florence. My research interests are **Computer Vision**, **Pattern Recognition** and **Machine Learning**, focusing in particular on **Autonomous Driving** and **Action Recognition**. I am also an **Adjunct Professor** at the University of Florence. I have tought an Information Technology Lab (in Python) and I am currently teaching Computer Science (in C) to Electrical and Telecommunication Engineers.
