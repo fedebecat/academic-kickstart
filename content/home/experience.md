@@ -18,36 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Fellow"
+  company = "MICC - University of Florence"
+  company_url = "http://www.micc.unifi.it/"
+  location = "Florence, Italy"
+  date_start = "2017-11-01"
   date_end = ""
   description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Adjunct Professor"
+  company = "University of Florence"
+  company_url = "http://www.unifi.it"
+  location = "Florence, Italy"
+  date_start = "2020-03-02"
+  date_end = "" # 2021-04-30
+  description = """Computer Science (foundamentals of programming in C)."""
 
-  [[experience]]
-    title = "Professor"
-    company = "University X"
-    company_url = ""
-    location = "California"
-    date_start = "2016-01-01"
-    date_end = ""
-    description = """Taught electronic engineering and researched semiconductor physics."""
+[[experience]]
+  title = "Adjunct Professor"
+  company = "University of Florence"
+  company_url = "http://www.unifi.it"
+  location = "Florence, Italy"
+  date_start = "2019-02-25"
+  date_end = "2020-04-30"
+  description = """Information Technology Laboratory (programming lab in Python)."""
 
+[[experience]]
+  title = "PhD student"
+  company = "University of Florence"
+  company_url = "http://www.unifi.it"
+  location = "Florence, Italy"
+  date_start = "2014-11-01"
+  date_end = "2017-10-31"
+  description = """Object and action annotation in visual media beyond categories"""
 +++
