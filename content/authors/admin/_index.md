@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a **PostDoc** working in the Media Integration and Communication Center (MICC) at the University of Florence. My research interests are **Computer Vision**, **Pattern Recognition** and **Machine Learning**, focusing in particular on **Autonomous Driving** and **Action Recognition**. I am also an **Adjunct Professor** at the University of Florence. I have tought an Information Technology Lab (in Python) and I am currently teaching Computer Science (in C) to Electrical and Telecommunication Engineers.
+I am a **PostDoc** working in the Media Integration and Communication Center (MICC) at the University of Florence. My research interests are **Computer Vision**, **Pattern Recognition** and **Machine Learning**, focusing in particular on **Autonomous Driving** and **Action Recognition**. I am also an **Adjunct Professor** at the University of Florence. I have taught an Information Technology Lab (in Python) and I am currently teaching Computer Science (in C) to Electrical and Telecommunication Engineers.
