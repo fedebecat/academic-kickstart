@@ -15,7 +15,7 @@ role: PostDoc
 # Organizations/Affiliations
 organizations:
 - name: Media Integration and Communication Center (MICC) - University of Florence
-  url: "www.micc.unifi.it"
+  url: "http://www.micc.unifi.it"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a PostDoc in the Media Integration and Communication Center (MICC) at the University of Florence.
@@ -36,8 +36,8 @@ education:
   - course: MS in Computer Engineering
     institution: University of Florence
     year: 2014
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Computer Engineering
+    institution: University of Florence
     year: 2012
 
 # Social/Academic Networking
