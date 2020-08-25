@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   <a href="publication/mantra_pami/">Check it out</a>"""
 
 [[news]]
-  title = "ECCV demo and workshop accepted!"
+  title = "ECCV demo and workshops accepted!"
   date = "2020-08-11"
-  description = """We are going to present two works at ECCV 2020: a presentation at the PAD workshop and a cool demo showcasing MANTRA in the CARLA simulator! <a href="https://www.youtube.com/watch?v=avgp-Wfr10E">VIDEO</a>"""
+  description = """We are going to present three works at ECCV 2020: presentations at the PAD and BTFM workshops and a cool demo showcasing MANTRA in the CARLA simulator! <a href="https://www.youtube.com/watch?v=avgp-Wfr10E">VIDEO</a>"""
 
 +++
