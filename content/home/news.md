@@ -38,4 +38,14 @@ date_format = "Jan 2006"
   date = "2020-08-11"
   description = """We are going to present three works at ECCV 2020: presentations at the PAD and BTFM workshops and a cool demo showcasing MANTRA in the CARLA simulator! <a href="https://www.youtube.com/watch?v=avgp-Wfr10E">VIDEO</a>"""
 
+[[news]]
+  title = "FBE2020 workshop organized at ICPR2020!"
+  date = "2020-11-22"
+  description = """We are organizing a workshop on Facial and Body Expressions, micro-expressions and behavior recognition. Join us during ICPR 2020! <a href="https://micc.unifi.it/FBE2020/">WEBSITE</a>"""
+
+[[news]]
+  title = "Two papers accepted at ICPR2020!"
+  date = "2020-11-22"
+  description = """We are going to present two works at ICPR 2020, one on synthetic trajectories for motion forecasting <a href="https://arxiv.org/abs/2010.08948">(LINK)</a> and one on Temporal Binary Encodings for gesture recognition with event cameras <a href="https://arxiv.org/abs/2010.08946">(LINK)</a>"""
+
 +++
